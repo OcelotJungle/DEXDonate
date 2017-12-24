@@ -1,0 +1,10 @@
+name: DEXDonate
+main: ru.ocelotjungle.dexdonate.DEXDonate
+version: 1
+description: Make your donate smarter
+commands:
+  dexd:
+    description: main command
+    usage: /dexd help
+    permission: dexdonate.basic
+    aliases: [dexdonate]

@@ -1,4 +1,4 @@
-package ru.ocelotjungle.DEXDonate;
+package ru.ocelotjungle.dexdonate;
 
 public class NetworkManager {
 

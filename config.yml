@@ -1,0 +1,9 @@
+CentralAccount:
+  Login: defaultlogin
+  Password: defaultpassword
+  Address: defaultaddress
+Exchange:
+	# What assets plugin have to use to exchanges
+  Asset: bitRUBLE
+	# The number is how much asset coins player will get by 1 resource unit
+  Rate: 1
