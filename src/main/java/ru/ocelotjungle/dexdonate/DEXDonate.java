@@ -6,6 +6,10 @@ public class DEXDonate extends JavaPlugin {
 	private static DEXDonate instance;
 	
 	public DEXDonate() {
+	}
+
+	@Override
+	public void onLoad() {
 		instance = this;
 	}
 	
