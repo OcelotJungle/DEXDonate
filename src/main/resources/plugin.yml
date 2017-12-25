@@ -1,6 +1,6 @@
 name: DEXDonate
+version: ${project.version}
 main: ru.ocelotjungle.dexdonate.DEXDonate
-version: 1
 description: Make your donate smarter
 commands:
   dexd:
